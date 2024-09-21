@@ -5,7 +5,7 @@ a = Analysis(
     ['gen.py'],
     pathex=[],
     binaries=[],
-    datas=[('karta.ico', '.'), ('karta.png', '.'), ('source.txt', '.')],
+    datas=[('karta.png', '.'), ('source.txt', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
